@@ -7,5 +7,6 @@ For now the app only supports windows.
 Does the app get updates?
 -Yes, I'll try to add more things to the app.
 ######
+
 Why did you make this?
 -I was boared.
