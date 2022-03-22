@@ -10,4 +10,4 @@ Does the app get updates?
 ######
 Why did you make this?
 ######
--I was boared.
+-I was board.
